@@ -1,0 +1,19 @@
+@charset 'utd-8';
+
+
+th{
+    background-color: #e1d4c0;
+    text-align: left;
+}
+tr{
+    text-align: center;
+    font-weight: 400;
+    
+}
+td{
+    color: #0f07ff;
+    text-decoration: underline;
+}
+.colorTd{
+    background-color: #e2f3fd;
+}
